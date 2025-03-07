@@ -25,7 +25,7 @@ The dataset contains food and beverage sales records, customer demographics, and
 
 🛠️ How to Use
     1️⃣ Clone the Repository
-      git clone https://github.com/AKSHAY-1205/Food-And-Beverage-Sales-Analysis-Dashboard.git
+      git clone https://github.com/AKSHAY-1205/Food-And-Beverage-Sales-Analysis-Dashboard.git<br>
     2️⃣ Open the Power BI File
       Open Power BI Desktop
     Load Sales_Analysis.pbix
